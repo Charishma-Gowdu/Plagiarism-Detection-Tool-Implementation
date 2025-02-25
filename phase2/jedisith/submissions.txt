@@ -1,0 +1,10 @@
+1.0 1 ObiWanKenobi Yoda mentor
+2.0 2 AnakinSkywalker ObiWanKenobi kill_dooku
+2.1 3 AnakinSkywalker ObiWanKenobi betrayal
+2.2 4 AnakinSkywalker Palpatine become_vader
+3.0 5 DarthVader Palpatine death_star
+3.1 6 HanSolo ObiWanKenobi targeted_attack
+3.5 7 LukeSykwalker Yoda padawan
+5.0 8 KyloRen ObiWanKenobi attack_rebels
+5.1 9 DarthSidious Palpatine all_sith
+5.1 10 ReySkywalker Palpatine all_jedi
